@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 黄申磊你个憨憨怪
 
 You can use the [editor on GitHub](https://github.com/Last-hub/2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
